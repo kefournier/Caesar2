@@ -1,4 +1,5 @@
 #Caesar cipher
+#adding a comment
 #Extablishing characters of the cipher
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 MAX_KEY_SIZE = len(SYMBOLS) #1 - 52 is the possible range
